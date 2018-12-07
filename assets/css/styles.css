@@ -292,7 +292,10 @@ body {
       width:  100%;
     }
   }
-
+.cardTitle{
+  color:  white;
+  font-size: 30px;
+}
   .social-icons .btn {
     margin-right: 15px;
 }
